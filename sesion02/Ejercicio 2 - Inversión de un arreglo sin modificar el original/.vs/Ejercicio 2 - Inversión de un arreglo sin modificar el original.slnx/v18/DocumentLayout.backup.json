@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UNA\\source\\repos\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEEF2DA-6722-4BA4-84CA-0200A4AE7C2B}|Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.vcxproj|C:\\Users\\UNA\\source\\repos\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBEEF2DA-6722-4BA4-84CA-0200A4AE7C2B}|Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.vcxproj|solutionrelative:Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEEF2DA-6722-4BA4-84CA-0200A4AE7C2B}|Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.vcxproj|C:\\Users\\UNA\\source\\repos\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original\\ArrayInvert.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBEEF2DA-6722-4BA4-84CA-0200A4AE7C2B}|Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.vcxproj|solutionrelative:ArrayInvert.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEEF2DA-6722-4BA4-84CA-0200A4AE7C2B}|Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.vcxproj|C:\\Users\\UNA\\source\\repos\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original\\ArrayInvert.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBEEF2DA-6722-4BA4-84CA-0200A4AE7C2B}|Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.vcxproj|solutionrelative:ArrayInvert.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayInvert.cpp",
+              "DocumentMoniker": "C:\\Users\\UNA\\source\\repos\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original\\ArrayInvert.cpp",
+              "RelativeDocumentMoniker": "ArrayInvert.cpp",
+              "ToolTip": "C:\\Users\\UNA\\source\\repos\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original\\ArrayInvert.cpp",
+              "RelativeToolTip": "ArrayInvert.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T00:06:01.354Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayInvert.h",
+              "DocumentMoniker": "C:\\Users\\UNA\\source\\repos\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original\\ArrayInvert.h",
+              "RelativeDocumentMoniker": "ArrayInvert.h",
+              "ToolTip": "C:\\Users\\UNA\\source\\repos\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original\\ArrayInvert.h",
+              "RelativeToolTip": "ArrayInvert.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T00:02:36.49Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.cpp",
+              "DocumentMoniker": "C:\\Users\\UNA\\source\\repos\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.cpp",
+              "RelativeDocumentMoniker": "Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.cpp",
+              "ToolTip": "C:\\Users\\UNA\\source\\repos\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original\\Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.cpp*",
+              "RelativeToolTip": "Ejercicio 2 - Inversi\u00F3n de un arreglo sin modificar el original.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-02T23:47:06.351Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
