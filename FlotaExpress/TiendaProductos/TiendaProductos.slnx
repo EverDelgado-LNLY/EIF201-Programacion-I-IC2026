@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TiendaProductos/TiendaProductos.vcxproj" Id="9bc4649b-76ed-49c7-83cc-c3ac89f12146" />
+</Solution>

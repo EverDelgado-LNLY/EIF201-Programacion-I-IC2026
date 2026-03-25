@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FlotaExpress/FlotaExpress.vcxproj" Id="5f953da9-7c58-40f7-8c5f-dfd02ab178b5" />
+</Solution>
